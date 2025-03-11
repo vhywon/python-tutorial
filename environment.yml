@@ -1,0 +1,6 @@
+name: PythonProgramming
+channels:
+  - conda-forge
+  - biconda
+dependencies:
+  - python =3.12.9
